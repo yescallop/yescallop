@@ -1,2 +1,2 @@
 - Doing everything and nothing.
-- Public key: [4E5152CD](https://gist.github.com/yescallop/55889cef241d9b274c1b0de0d2395127).
+- Public key: [DAEC7370](https://gist.github.com/yescallop/507ace47be2776084cb11cfc155b7c30).
