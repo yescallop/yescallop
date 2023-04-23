@@ -1,2 +1,2 @@
 - Doing everything and nothing.
-- Public key: [DAEC7370](https://gist.github.com/yescallop/507ace47be2776084cb11cfc155b7c30).
+- Public key: [DAEC7370](https://github.com/yescallop.gpg).
